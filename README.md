@@ -30,6 +30,7 @@ Mais heureusement, pour que l’on puisse reconnaître cette version rapidement,
 <hr>
 <h2>Comment m’y prendre ?</h2>
 <hr>
+<br>
 J’ai alors fait mes petites recherches. 
 
 Ce qui nous est recommandé est d’établir des conventions de nommage pour nos commits. Dans le monde professionnel, lorsque l’on arrivera sur un projet déjà en cours, les conventions seront déjà pensées et utilisées, il suffira de les suivre. Mais qu’en est-il des projets que l’on commence actuellement ? Des projets sur lesquelles l’on travaille peut-être en groupe, et sur lesquelles il nous faudrait effectivement des conventions solides pour que chacun et chacune puisse nommer les commits de la même façon pour mieux s’y retrouver. Ou même dans le cas où l’on est seul, cela nous servira pour s’y retrouver ou pour les futurs arrivant sur le projet. 
@@ -46,9 +47,11 @@ L’organisation est cool, c’est directement plus lisible qu’un historique m
 
 
 Il utilise un squelette tel que celui-ci : 
-<type>(<portée>): <sujet>
-<description>
-<footer>
+<p>
+ <type>(<portée>): <sujet>
+ <description>
+ <footer>
+ </p>
 
 C’est un squelette que l’on retrouve un peu partout sur Github.
 Avec les règles suivantes : 
@@ -85,6 +88,7 @@ Les règles sont censées recouvrir un grand nombre de situations, peut-être m�
 <hr>
 <h2>Comment mettre une description  ? Ou même un footer ?</h2>
 <hr>
+<br>
 C'est une question que je me pose. 
 Puisque si tu as appris à utiliser Git comme moi, tu sais que la commande permettant de commit est la suivante :
 
@@ -103,6 +107,7 @@ Voilà, nous sommes désormais tous les deux armés pour avoir un historique pro
 
 
 <h2>Aller plus loin :</h2> 
+<br>
 [Angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md) est une des inspirations concernant les conventions de nommage des commits.
 
 
@@ -116,6 +121,7 @@ C’est article est une mission pour la formation The Hacking Project.
 <hr>
 <h3>Mes sources :</h3>
 <hr>
+<br>
 Grafikart a fait une [vidéo](https://www.grafikart.fr/tutoriels/nommage-commit-1009) sur comment nommer ses commits.
 Le projet d'exemple [Leon](https://github.com/leon-ai/leon). 
 Cet [article](https://buzut.net/git-bien-nommer-ses-commits/) sur le nommage des commits.
