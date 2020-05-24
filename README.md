@@ -8,13 +8,13 @@
 <hr>
 <h2>Git… C’est Super !</h2>
 <hr>
-Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour un projet, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer
+Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour nos projet, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer
 Git est utilisé pour : 
 <ul>
- <li> Gérer les différentes versions et étapes du projet (même sans connexion) </li>
- <li> Développer des fonctionnalités en parallèle</li>
- <li> Revenir en arrière, à une version précise</li>
- <li> Collaborer sur un même projet</li>
+ <li><b> Gérer les différentes versions et étapes du projet (même sans connexion) </b></li>
+ <li><b> Développer des fonctionnalités en parallèle</b></li>
+ <li><b> Revenir en arrière, à une version précise</b></li>
+ <li><b> Collaborer sur un même projet</b></li>
 </ul>
 
 Il est vrai que ces quatre points ne donnent qu’une envie, c’est de l’utiliser. Je le vous recommande si ce n’est pas déjà fait.
@@ -22,9 +22,10 @@ Il est vrai que ces quatre points ne donnent qu’une envie, c’est de l’util
 Cependant, comme pour n’importe quel outil, l’utiliser c’est bien, mais l’utiliser avec de bonnes pratiques, c’est mieux. 
 Nous allons nous attarder sur le premier point : Gérer les différentes versions/étapes du projet
 
-Pour sauvegarder chaque étape du projet, nous faisons ce qui s’appelle `un commit`. Cela permet d’enregistrer les modifications effectuées depuis le dernier commit, et de pouvoir y revenir par la suite, imaginons, ce que l’on a fait après ce commit ne nous convient pas, on peut y revenir sans devoir spam le Ctrl + Z. Ca c’est super ! 
-Lorsque l’on ‘commit’, le commit se voit attribuer automatiquement une sorte de matricule comme par exemple`18f801d`. Celui-ci est très utile pour pouvoir lui indiquer dans notre terminal, quel commit nous visons lorsque nous tapons telle ou telle commande, `$ git reset 18f801d` par exemple. Imagine-nous avec des dizaines ou même des centaines de commits ayant uniquement ce matricule pour les différencier, ce serait un enfer.
-Mais heureusement, pour que l’on puisse reconnaître cette version rapidement, on peut nommer nos commits. C’est très pratique, mais parfois, je ne sais pas pour toi, il m’est difficile de trouver un nom signification à mes commits. Le nommer juste pour le nommer ça ne sert à rien : 
+Pour sauvegarder chaque étape du projet, nous faisons ce qui s’appelle `un commit`. <br>
+Cela permet d’enregistrer les modifications effectuées depuis le dernier commit, et de pouvoir y revenir par la suite, imaginons, ce que l’on a fait après ce commit ne nous convient pas, on peut y revenir sans devoir spam le Ctrl + Z. Ca c’est super !  <br>
+Lorsque l’on ‘commit’, le commit se voit attribuer automatiquement une sorte de matricule comme par exemple`18f801d`. Celui-ci est très utile pour pouvoir lui indiquer dans notre terminal, quel commit nous visons lorsque nous tapons telle ou telle commande, `$ git reset 18f801d` par exemple. Imagine-nous avec des dizaines ou même des centaines de commits ayant uniquement ce matricule pour les différencier, ce serait un enfer. <br>
+Mais heureusement, pour que l’on puisse reconnaître cette version rapidement, on peut nommer nos commits. C’est très pratique, mais parfois, je ne sais pas pour toi, il m’est difficile de trouver un nom signification à mes commits. Le nommer juste pour le nommer ça ne sert à rien :  <br>
 ![historique-moche](https://user-images.githubusercontent.com/59894954/82759121-7a1fc800-9deb-11ea-92f0-1f2c231b7542.png)
 
 <hr>
@@ -33,7 +34,11 @@ Mais heureusement, pour que l’on puisse reconnaître cette version rapidement,
 <br>
 J’ai alors fait mes petites recherches. 
 
-Ce qui nous est recommandé est d’établir des conventions de nommage pour nos commits. Dans le monde professionnel, lorsque l’on arrivera sur un projet déjà en cours, les conventions seront déjà pensées et utilisées, il suffira de les suivre. Mais qu’en est-il des projets que l’on commence actuellement ? Des projets sur lesquelles l’on travaille peut-être en groupe, et sur lesquelles il nous faudrait effectivement des conventions solides pour que chacun et chacune puisse nommer les commits de la même façon pour mieux s’y retrouver. Ou même dans le cas où l’on est seul, cela nous servira pour s’y retrouver ou pour les futurs arrivant sur le projet. 
+Ce qui nous est recommandé est d’établir des conventions de nommage pour nos commits. Dans le monde professionnel, lorsque l’on arrivera sur un projet déjà en cours, les conventions seront déjà pensées et utilisées, il suffira de les suivre. 
+ <br>
+ Mais qu’en est-il des projets que l’on commence actuellement ? 
+ <br>
+Des projets sur lesquelles l’on travaille peut-être en groupe, et sur lesquelles il nous faudrait effectivement des conventions solides pour que chacun et chacune puisse nommer les commits de la même façon pour mieux s’y retrouver. Ou même dans le cas où l’on est seul, cela nous servira pour s’y retrouver ou pour les futurs arrivant sur le projet. 
 
 Alors, comme dit ci-dessus, dans le monde professionnel, on va devoir suivre des conventions déjà normées, alors pourquoi ne pas commencer dès maintenant. Allons voir sur Github les historiques de commits de différents projets. 
 
@@ -47,11 +52,12 @@ L’organisation est cool, c’est directement plus lisible qu’un historique m
 
 
 Il utilise un squelette tel que celui-ci : 
-<p>
- <type>(<portée>): <sujet>
- <description>
- <footer>
- </p>
+<p> <b>
+ type(portée): sujet <br>
+  description<br>
+ footer
+  </b>
+</p>
 
 C’est un squelette que l’on retrouve un peu partout sur Github.
 Avec les règles suivantes : 
