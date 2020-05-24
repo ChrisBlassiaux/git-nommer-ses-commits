@@ -1,10 +1,13 @@
-<h1> GIT - COMMENT NOMMER SES COMMITS ? </h1>
+<h1>GIT: COMMENT NOMMER SES COMMITS ? </h1>
 
-Tu utilises Git et tu te poses des questions sur comment nommer tes commits, cet article est fait pour toi. 
+<i>
+ Tu utilises Git et tu te poses des questions sur comment nommer tes commits, cet article est fait pour toi. 
 
-Cet article est une adaptation écrite de mes recherches personnelles concernant ce sujet. Au moment de cet article, je suis en formation de développement web chez The Hacking Project. 
-
+ Cet article est une adaptation écrite de mes recherches personnelles concernant ce sujet. Au moment de cet article, je suis en formation de développement web chez The Hacking Project. 
+</i>
+<hr>
 <h2>Git… C’est Super !</h2>
+<hr>
 Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour un projet, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer
 Git est utilisé pour : 
 <ul>
@@ -24,7 +27,9 @@ Lorsque l’on ‘commit’, le commit se voit attribuer automatiquement une sor
 Mais heureusement, pour que l’on puisse reconnaître cette version rapidement, on peut nommer nos commits. C’est très pratique, mais parfois, je ne sais pas pour toi, il m’est difficile de trouver un nom signification à mes commits. Le nommer juste pour le nommer ça ne sert à rien : 
 ![historique-moche](https://user-images.githubusercontent.com/59894954/82759121-7a1fc800-9deb-11ea-92f0-1f2c231b7542.png)
 
+<hr>
 <h2>Comment m’y prendre ?</h2>
+<hr>
 J’ai alors fait mes petites recherches. 
 
 Ce qui nous est recommandé est d’établir des conventions de nommage pour nos commits. Dans le monde professionnel, lorsque l’on arrivera sur un projet déjà en cours, les conventions seront déjà pensées et utilisées, il suffira de les suivre. Mais qu’en est-il des projets que l’on commence actuellement ? Des projets sur lesquelles l’on travaille peut-être en groupe, et sur lesquelles il nous faudrait effectivement des conventions solides pour que chacun et chacune puisse nommer les commits de la même façon pour mieux s’y retrouver. Ou même dans le cas où l’on est seul, cela nous servira pour s’y retrouver ou pour les futurs arrivant sur le projet. 
@@ -77,7 +82,9 @@ Avec les règles suivantes :
 
 Les règles sont censées recouvrir un grand nombre de situations, peut-être même toutes les situations.
 
+<hr>
 <h2>Comment mettre une description  ? Ou même un footer ?</h2>
+<hr>
 C'est une question que je me pose. 
 Puisque si tu as appris à utiliser Git comme moi, tu sais que la commande permettant de commit est la suivante :
 
@@ -106,8 +113,9 @@ J’ai trouvé cette [cheatsheet](https://github.github.com/training-kit/downloa
 
 C’est article est une mission pour la formation The Hacking Project. 
 
-
+<hr>
 <h3>Mes sources :</h3>
+<hr>
 Grafikart a fait une [vidéo](https://www.grafikart.fr/tutoriels/nommage-commit-1009) sur comment nommer ses commits.
 Le projet d'exemple [Leon](https://github.com/leon-ai/leon). 
 Cet [article](https://buzut.net/git-bien-nommer-ses-commits/) sur le nommage des commits.
