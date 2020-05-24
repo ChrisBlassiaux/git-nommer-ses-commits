@@ -77,7 +77,8 @@ Avec les règles suivantes :
 
 Les règles sont censées recouvrir un grand nombre de situations, peut-être même toutes les situations.
 
-Une question que je me pose : Comment mettre une description  ? Ou même un footer ? 
+<h2>Comment mettre une description  ? Ou même un footer ?</h2>
+C'est une question que je me pose. 
 Puisque si tu as appris à utiliser Git comme moi, tu sais que la commande permettant de commit est la suivante :
 
 ![command-commit](https://user-images.githubusercontent.com/59894954/82759239-60cb4b80-9dec-11ea-85d1-138de06b5fc6.png)
@@ -94,7 +95,7 @@ On en arrive donc à avoir un commit qui ressemble à cela sur github.
 Voilà, nous sommes désormais tous les deux armés pour avoir un historique professionnel. C’est quelque chose qui peut paraître banal au premier abort, mais l’organisation est importante dans le monde du dévelopment web. Et ces petites recherches vont permettre à toi et moi d’avoir un projet organisé. 
 
 
-###Aller plus loin : 
+<h2>Aller plus loin :</h2> 
 [Angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md) est une des inspirations concernant les conventions de nommage des commits.
 
 
@@ -106,12 +107,11 @@ J’ai trouvé cette [cheatsheet](https://github.github.com/training-kit/downloa
 C’est article est une mission pour la formation The Hacking Project. 
 
 
-###Mes sources :
-Leur donner une description et mette autrement les liens 
-https://www.grafikart.fr/tutoriels/nommage-commit-1009
-https://buzut.net/git-bien-nommer-ses-commits/
-https://delicious-insights.com/fr/articles/git-workflows-conventions/
-https://github.com/leon-ai/leon
+<h3>Mes sources :</h3>
+Grafikart a fait une [vidéo](https://www.grafikart.fr/tutoriels/nommage-commit-1009) sur comment nommer ses commits.
+Le projet d'exemple [Leon](https://github.com/leon-ai/leon). 
+Cet [article](https://buzut.net/git-bien-nommer-ses-commits/) sur le nommage des commits.
+Cet [article](https://delicious-insights.com/fr/articles/git-workflows-conventions/) sur le workflow git.
 
 
 Auteur : ChrisBlassiaux
