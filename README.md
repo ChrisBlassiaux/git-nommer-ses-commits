@@ -38,9 +38,9 @@ L’organisation est cool, c’est directement plus lisible qu’un historique m
 
 
 Il utilise un squelette tel que celui-ci : 
-```<type>(<portée>): <sujet>
+<type>(<portée>): <sujet>
 <description>
-<footer>```
+<footer>
 
 C’est un squelette que l’on retrouve un peu partout sur Github.
 Avec les règles suivantes : 
@@ -101,8 +101,5 @@ https://buzut.net/git-bien-nommer-ses-commits/
 https://delicious-insights.com/fr/articles/git-workflows-conventions/
 https://github.com/leon-ai/leon
 
---
 
 Auteur : ChrisBlassiaux
-
---
