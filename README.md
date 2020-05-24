@@ -1,16 +1,18 @@
-#GIT - COMMENT NOMMER SES COMMITS ?
+<h1> GIT - COMMENT NOMMER SES COMMITS ? </h1>
 
-> Tu utilises Git et tu te poses des questions sur comment nommer tes commits, cet article est fait pour toi. 
+Tu utilises Git et tu te poses des questions sur comment nommer tes commits, cet article est fait pour toi. 
 
-> Cet article est une adaptation écrite de mes recherches personnelles concernant ce sujet. Au moment de cet article, je suis en formation de développement web chez The Hacking Project. 
+Cet article est une adaptation écrite de mes recherches personnelles concernant ce sujet. Au moment de cet article, je suis en formation de développement web chez The Hacking Project. 
 
-Git… C’est Super ! 
+<h2>Git… C’est Super !</h2>
 Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour un projet, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer
 Git est utilisé pour : 
-*Gérer les différentes versions et étapes du projet (même sans connexion)
-*Développer des fonctionnalités en parallèle
-*Revenir en arrière, à une version précise
-*Collaborer sur un même projet
+<ul>
+ <li> Gérer les différentes versions et étapes du projet (même sans connexion) </li>
+ <li> Développer des fonctionnalités en parallèle</li>
+ <li> Revenir en arrière, à une version précise</li>
+ <li> Collaborer sur un même projet</li>
+</ul>
 
 Il est vrai que ces quatre points ne donnent qu’une envie, c’est de l’utiliser. Je le vous recommande si ce n’est pas déjà fait.
 
@@ -22,7 +24,8 @@ Lorsque l’on ‘commit’, le commit se voit attribuer automatiquement une sor
 Mais heureusement, pour que l’on puisse reconnaître cette version rapidement, on peut nommer nos commits. C’est très pratique, mais parfois, je ne sais pas pour toi, il m’est difficile de trouver un nom signification à mes commits. Le nommer juste pour le nommer ça ne sert à rien : 
 ![historique-moche](https://user-images.githubusercontent.com/59894954/82759121-7a1fc800-9deb-11ea-92f0-1f2c231b7542.png)
 
-Comment m’y prendre ? J’ai alors fait mes petites recherches. 
+<h2>Comment m’y prendre ?</h2>
+J’ai alors fait mes petites recherches. 
 
 Ce qui nous est recommandé est d’établir des conventions de nommage pour nos commits. Dans le monde professionnel, lorsque l’on arrivera sur un projet déjà en cours, les conventions seront déjà pensées et utilisées, il suffira de les suivre. Mais qu’en est-il des projets que l’on commence actuellement ? Des projets sur lesquelles l’on travaille peut-être en groupe, et sur lesquelles il nous faudrait effectivement des conventions solides pour que chacun et chacune puisse nommer les commits de la même façon pour mieux s’y retrouver. Ou même dans le cas où l’on est seul, cela nous servira pour s’y retrouver ou pour les futurs arrivant sur le projet. 
 
@@ -45,23 +48,32 @@ Il utilise un squelette tel que celui-ci :
 C’est un squelette que l’on retrouve un peu partout sur Github.
 Avec les règles suivantes : 
 
-*Type définit le type de commit
-  *build: Système de build (example : gulp, webpack, npm)
-  *ci: Intégration continue (example scopes: Travis, Circle, BrowserStack, SauceLabs)
-  *docs: Documentation
-  *feat: Ajout d'une fonctionnalité
-  *fix: Correction de bogue
-  *perf: Amélioration des performances
-  refactor: Changement du code qui ne change rien au fonctionnement
-  *style: Changement du style du code (sans changer la logique)
-  *test: Modification des tests
-*Portée définit quelle partie de votre librairie / application est affectée par le commit (cette information est optionnelle)
-*Sujet contient une description succinte des changements
-  *En utilisant l'impératif présent ("change", et non pas "changed" ou "changes")
-  *Sans majuscule au début
-  *Pas de "." à la fin de la description
-*Description permet de détailler plus en profondeur les motivations derrière le changement. Les règles sont les mêmes que pour la partie Sujet.
-*Footer contient les changements importants (Breaking Changes) et les références à des issues GitHub / GitLab ou autre.
+<ul>
+ <li>Type définit le type de commit
+  <ul>
+   <li>build: Système de build (example : gulp, webpack, npm)</li>
+   <li>ci: Intégration continue (example scopes: Travis, Circle, BrowserStack, SauceLabs)</li>
+   <li>docs: Documentation</li>
+   <li>feat: Ajout d'une fonctionnalité</li>
+   <li>fix: Correction de bogue</li>
+   <li>perf: Amélioration des performances</li>
+   <li>refactor: Changement du code qui ne change rien au fonctionnement</li>
+   <li>style: Changement du style du code (sans changer la logique)</li>
+   <li>test: Modification des tests</li>
+  </ul>
+ </li>
+ <li>Portée définit quelle partie de votre librairie / application est affectée par le commit (cette information est optionnelle)</li>
+ <li>Sujet contient une description succinte des changements
+  <ul>
+    <li>En utilisant l'impératif présent ("change", et non pas "changed" ou "changes")</li>
+    <li>Sans majuscule au début</li>
+    <li>Pas de "." à la fin de la description</li>
+   <ul>
+ </li>
+ <li>Description permet de détailler plus en profondeur les motivations derrière le changement. Les règles sont les mêmes que pour la partie Sujet. </li>
+  <li>Footer contient les changements importants (Breaking Changes) et les références à des issues GitHub / GitLab ou autre.   </li>
+</ul>
+
 
 Les règles sont censées recouvrir un grand nombre de situations, peut-être même toutes les situations.
 
