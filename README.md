@@ -95,7 +95,7 @@ Les règles sont censées recouvrir un grand nombre de situations, peut-être m�
 <h2>Comment mettre une description  ? Ou même un footer ?</h2>
 <hr>
 <br>
-C'est une question que je me pose. 
+C'est une question que je me pose.
 Puisque si tu as appris à utiliser Git comme moi, tu sais que la commande permettant de commit est la suivante :
 
 ![command-commit](https://user-images.githubusercontent.com/59894954/82759239-60cb4b80-9dec-11ea-85d1-138de06b5fc6.png)
@@ -134,4 +134,9 @@ Cet [article](https://buzut.net/git-bien-nommer-ses-commits/) sur le nommage des
 Cet [article](https://delicious-insights.com/fr/articles/git-workflows-conventions/) sur le workflow git.
 
 
-Auteur : ChrisBlassiaux
+<h3> Auteurs : <h3>
+
+→ Chris Blassiaux <br>
+[<img src="http://pngimg.com/uploads/github/github_PNG40.png" width="25" >](https://github.com/ChrisBlassiaux )[<img src="https://user-images.githubusercontent.com/59894954/79057092-9281bc00-7c5d-11ea-9392-783b52f9dae4.png" width="25" >](https://chrisb.fr/)  [<img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" width="25" >  ](https://www.linkedin.com/in/christopher-blassiaux-802891198/)  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" width="25" >](chrisblassiaux@gmail.com)   [<img src="https://www.toomed.com/blog/wp-content/uploads/2018/09/new-instagram-logo-png-transparent.png" width="25" > ](https://www.instagram.com/chris.blassiaux/) 
+
+→  Mission pour [The Hacking Project](https://www.thehackingproject.org/)
