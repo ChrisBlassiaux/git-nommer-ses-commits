@@ -49,29 +49,29 @@ C’est un squelette que l’on retrouve un peu partout sur Github.
 Avec les règles suivantes : 
 
 <ul>
- <li>Type définit le type de commit
+ <li><b>Type</b> définit le type de commit
   <ul>
-   <li>build: Système de build (example : gulp, webpack, npm)</li>
-   <li>ci: Intégration continue (example scopes: Travis, Circle, BrowserStack, SauceLabs)</li>
-   <li>docs: Documentation</li>
-   <li>feat: Ajout d'une fonctionnalité</li>
-   <li>fix: Correction de bogue</li>
-   <li>perf: Amélioration des performances</li>
-   <li>refactor: Changement du code qui ne change rien au fonctionnement</li>
-   <li>style: Changement du style du code (sans changer la logique)</li>
-   <li>test: Modification des tests</li>
+   <li><b>build:</b> Système de build (example : gulp, webpack, npm)</li>
+   <li><b>ci:</b> Intégration continue (example scopes: Travis, Circle, BrowserStack, SauceLabs)</li>
+   <li><b>docs:</b> Documentation</li>
+   <li><b>feat:</b> Ajout d'une fonctionnalité</li>
+   <li><b>fix:</b> Correction de bogue</li>
+   <li><b>perf:</b> Amélioration des performances</li>
+   <li><b>refactor:</b> Changement du code qui ne change rien au fonctionnement</li>
+   <li><b>style:</b> Changement du style du code (sans changer la logique)</li>
+   <li><b>test:</b> Modification des tests</li>
   </ul>
  </li>
- <li>Portée définit quelle partie de votre librairie / application est affectée par le commit (cette information est optionnelle)</li>
- <li>Sujet contient une description succinte des changements
+ <li><b>Portée</b> définit quelle partie de votre librairie / application est affectée par le commit (cette information est optionnelle)</li>
+ <li><b>Sujet</b> contient une description succinte des changements
   <ul>
     <li>En utilisant l'impératif présent ("change", et non pas "changed" ou "changes")</li>
     <li>Sans majuscule au début</li>
     <li>Pas de "." à la fin de la description</li>
-   <ul>
+   </ul>
  </li>
- <li>Description permet de détailler plus en profondeur les motivations derrière le changement. Les règles sont les mêmes que pour la partie Sujet. </li>
-  <li>Footer contient les changements importants (Breaking Changes) et les références à des issues GitHub / GitLab ou autre.   </li>
+ <li><b>Description</b> permet de détailler plus en profondeur les motivations derrière le changement. Les règles sont les mêmes que pour la partie Sujet. </li>
+  <li><b>Footer</b> contient les changements importants (Breaking Changes) et les références à des issues GitHub / GitLab ou autre.   </li>
 </ul>
 
 
