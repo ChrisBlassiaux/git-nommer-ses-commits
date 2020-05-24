@@ -19,12 +19,12 @@ Git est utilisé pour :
 
 Il est vrai que ces quatre points ne donnent qu’une envie, c’est de l’utiliser. Je le vous recommande si ce n’est pas déjà fait.
 
-Cependant, comme pour n’importe quel outil, l’utiliser c’est bien, mais l’utiliser avec de bonnes pratiques, c’est mieux. 
-Nous allons nous attarder sur le premier point : Gérer les différentes versions/étapes du projet
+Cependant, comme pour n’importe quel outil, l’utiliser c’est bien, mais l’utiliser avec de <b>bonnes pratiques</b>, c’est mieux. 
+Nous allons nous attarder sur le premier point : <b>Gérer les différentes versions/étapes du projet</b>
 
-Pour sauvegarder chaque étape du projet, nous faisons ce qui s’appelle `un commit`. <br>
-Cela permet d’enregistrer les modifications effectuées depuis le dernier commit, et de pouvoir y revenir par la suite, imaginons, ce que l’on a fait après ce commit ne nous convient pas, on peut y revenir sans devoir spam le Ctrl + Z. Ca c’est super !  <br>
-Lorsque l’on ‘commit’, le commit se voit attribuer automatiquement une sorte de matricule comme par exemple`18f801d`. Celui-ci est très utile pour pouvoir lui indiquer dans notre terminal, quel commit nous visons lorsque nous tapons telle ou telle commande, `$ git reset 18f801d` par exemple. Imagine-nous avec des dizaines ou même des centaines de commits ayant uniquement ce matricule pour les différencier, ce serait un enfer. <br>
+Pour sauvegarder chaque étape du projet, nous faisons ce qui s’appelle <b>un commit</b>. <br>
+Cela permet d’enregistrer les modifications effectuées depuis le dernier commit, et de pouvoir y revenir par la suite, imaginons, ce que l’on a fait après ce commit ne nous convient pas, on peut y revenir sans devoir spam le <b>Ctrl + Z</b>. Ca c’est super !  <br>
+Lorsque l’on <b>commit</b>, le commit se voit attribuer automatiquement une sorte de <b>matricule</b> comme par exemple`18f801d`. Celui-ci est très utile pour pouvoir lui indiquer dans notre terminal, quel commit nous visons lorsque nous tapons telle ou telle commande, `$ git reset 18f801d` par exemple. Imagine-nous avec des dizaines ou même des centaines de commits ayant uniquement ce matricule pour les différencier, ce serait un enfer. <br>
 Mais heureusement, pour que l’on puisse reconnaître cette version rapidement, on peut nommer nos commits. C’est très pratique, mais parfois, je ne sais pas pour toi, il m’est difficile de trouver un nom signification à mes commits. Le nommer juste pour le nommer ça ne sert à rien :  <br>
 ![historique-moche](https://user-images.githubusercontent.com/59894954/82759121-7a1fc800-9deb-11ea-92f0-1f2c231b7542.png)
 
@@ -34,15 +34,15 @@ Mais heureusement, pour que l’on puisse reconnaître cette version rapidement,
 <br>
 J’ai alors fait mes petites recherches. 
 
-Ce qui nous est recommandé est d’établir des conventions de nommage pour nos commits. Dans le monde professionnel, lorsque l’on arrivera sur un projet déjà en cours, les conventions seront déjà pensées et utilisées, il suffira de les suivre. 
+Ce qui nous est recommandé est d’établir des <b>conventions</b> de nommage pour nos commits. Dans le monde professionnel, lorsque l’on arrivera sur un projet déjà en cours, les conventions seront déjà pensées et utilisées, il suffira de les suivre. 
  <br>
  Mais qu’en est-il des projets que l’on commence actuellement ? 
  <br>
 Des projets sur lesquelles l’on travaille peut-être en groupe, et sur lesquelles il nous faudrait effectivement des conventions solides pour que chacun et chacune puisse nommer les commits de la même façon pour mieux s’y retrouver. Ou même dans le cas où l’on est seul, cela nous servira pour s’y retrouver ou pour les futurs arrivant sur le projet. 
 
-Alors, comme dit ci-dessus, dans le monde professionnel, on va devoir suivre des conventions déjà normées, alors pourquoi ne pas commencer dès maintenant. Allons voir sur Github les historiques de commits de différents projets. 
+Alors, comme dit ci-dessus, dans le monde professionnel, on va devoir suivre des conventions déjà normées, alors pourquoi ne pas commencer dès maintenant. Allons voir sur <b>Github</b> les historiques de commits de différents projets. 
 
-Quelques jours avant mes recherches, j’avais regardé une vidéo d’un développeur et youtubeur nommé Louistiti dans laquelle il parlait d’un de ses projets : Leon, un assistant personnel open source. 
+Il y a quelques jours, j'ai regardé une vidéo d’un développeur et youtubeur nommé Louistiti dans laquelle il parlait d’un de ses projets : Leon, un assistant personnel open source. 
 
 Allons y jetter un oeil, pour voir quelles sont ses conventions utilisées sur son projet [Leon](https://github.com/leon-ai/leon).
 
