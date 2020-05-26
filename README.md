@@ -11,6 +11,8 @@
 Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour nos projet, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer
 Git est utilisé pour : 
 <br>
+
+
 <ul>
  <li><b> Gérer les différentes versions et étapes du projet (même sans connexion) </b></li>
  <li><b> Développer des fonctionnalités en parallèle</b></li>
@@ -99,6 +101,7 @@ Les règles sont censées recouvrir un grand nombre de situations, peut-être m�
 C'est une question que je me pose.
 Puisque si tu as appris à utiliser Git comme moi, tu sais que la commande permettant de commit est la suivante :
 
+
 ![command-commit](https://user-images.githubusercontent.com/59894954/82759239-60cb4b80-9dec-11ea-85d1-138de06b5fc6.png)
 
 Le problème est que lorsque l’on souhaite mettre les différentes parties de la conventions, comment faire ? J’ai trouvé cette commande sur Stack Overflow : 
@@ -129,17 +132,17 @@ C’est article est une mission pour la formation The Hacking Project.
 
 <h3>Mes sources :</h3>
 <br>
-- Grafikart a fait une <a href="https://www.grafikart.fr/tutoriels/nommage-commit-1009" style="diplay: inline;">vidéo</a> sur comment nommer ses commits.
+-- Grafikart a fait une <a href="https://www.grafikart.fr/tutoriels/nommage-commit-1009" style="diplay: inline;">vidéo</a> sur comment nommer ses commits.
 
-- Le projet d'exemple utilisé <a href="https://github.com/leon-ai/leon" style="diplay: inline;">Leon</a>. 
+-- Le projet d'exemple utilisé <a href="https://github.com/leon-ai/leon" style="diplay: inline;">Leon</a>. 
 
-- Cet <a href="https://buzut.net/git-bien-nommer-ses-commits/" style="diplay: inline;">article</a> sur le nommage des commits.
+-- Cet <a href="https://buzut.net/git-bien-nommer-ses-commits/" style="diplay: inline;">article</a> sur le nommage des commits.
 
-- Cet <a href="https://delicious-insights.com/fr/articles/git-workflows-conventions/" style="diplay: inline;">article</a> sur le workflow git.
+-- Cet <a href="https://delicious-insights.com/fr/articles/git-workflows-conventions/" style="diplay: inline;">article</a> sur le workflow git.
 
 <h3> Contexte : </h3>
 
-- Mission réalisée durant la formation <a href="https://www.thehackingproject.org/" style="diplay: inline;">The Hacking Project</a>
+-- Mission réalisée durant la formation <a href="https://www.thehackingproject.org/" style="diplay: inline;">The Hacking Project</a>
 
 <h3> 👤  Auteur(s) : </h3>
 
