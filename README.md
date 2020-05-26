@@ -111,8 +111,9 @@ On en arrive donc à avoir un commit qui ressemble à cela sur github.
 
 Voilà, nous sommes désormais tous les deux armés pour avoir un historique professionnel. C’est quelque chose qui peut paraître banal au premier abort, mais l’organisation est importante dans le monde du dévelopment web. Et ces petites recherches vont permettre à toi et moi d’avoir un projet organisé. 
 
-
+<hr>
 <h2>Aller plus loin :</h2> 
+<hr>
 <br>
 [Angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md) est une des inspirations concernant les conventions de nommage des commits.
 
@@ -124,9 +125,9 @@ J’ai trouvé cette [cheatsheet](https://github.github.com/training-kit/downloa
 
 C’est article est une mission pour la formation The Hacking Project. 
 
-<hr>
+
 <h3>Mes sources :</h3>
-<hr>
+
 <br>
 Grafikart a fait une [vidéo](https://www.grafikart.fr/tutoriels/nommage-commit-1009) sur comment nommer ses commits.
 Le projet d'exemple [Leon](https://github.com/leon-ai/leon). 
