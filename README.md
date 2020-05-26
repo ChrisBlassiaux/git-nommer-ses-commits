@@ -134,12 +134,13 @@ Le projet d'exemple [Leon](https://github.com/leon-ai/leon).
 Cet [article](https://buzut.net/git-bien-nommer-ses-commits/) sur le nommage des commits.
 Cet [article](https://delicious-insights.com/fr/articles/git-workflows-conventions/) sur le workflow git.
 
+<h3> Contexte : </h3>
+<br>
+Mission réalisée durant la formation <a href="https://www.thehackingproject.org/" style="diplay: inline;">The Hacking Project</a>
 
-<h3> 👤  Auteur: </h3>
-<br> 
+## 👤  Auteur(s) : 
+
 -- Chris Blassiaux → 
 [<img src="http://pngimg.com/uploads/github/github_PNG40.png" width="25" >](https://github.com/ChrisBlassiaux )[<img src="https://user-images.githubusercontent.com/59894954/79057092-9281bc00-7c5d-11ea-9392-783b52f9dae4.png" width="25" >](https://chrisb.fr/)  [<img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" width="25" >  ](https://www.linkedin.com/in/christopher-blassiaux-802891198/)  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" width="25" >](chrisblassiaux@gmail.com)   [<img src="https://www.toomed.com/blog/wp-content/uploads/2018/09/new-instagram-logo-png-transparent.png" width="25" > ](https://www.instagram.com/chris.blassiaux/) 
 
-<h3> Contexte : </h3>
-<br>
-→  Mission pour [The Hacking Project](https://www.thehackingproject.org/)
+
