@@ -10,6 +10,7 @@
 <hr>
 Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour nos projet, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer
 Git est utilisé pour : 
+<br>
 <ul>
  <li><b> Gérer les différentes versions et étapes du projet (même sans connexion) </b></li>
  <li><b> Développer des fonctionnalités en parallèle</b></li>
@@ -115,27 +116,27 @@ Voilà, nous sommes désormais tous les deux armés pour avoir un historique pro
 <h2>Aller plus loin :</h2> 
 <hr>
 <br>
-[Angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md) est une des inspirations concernant les conventions de nommage des commits.
+<a href="https://github.com/angular/angular/blob/master/CONTRIBUTING.md" style="diplay: inline;">- Angular</a> est une des inspirations concernant les conventions de nommage des commits.
 
 
 Pour aller plus loin dans ton utilisation de git, je te propose d’aller te renseigner si ce n’est pas déjà fait sur les conventions d’utilisation des branches, on n’arrête jamais avec les conventions. 
 
-J’ai trouvé cette [cheatsheet](https://github.github.com/training-kit/downloads/fr/github-git-cheat-sheet.pdf) qui peut t’aider dans ton utilisation de git. 
+J’ai trouvé cette <a href="https://github.github.com/training-kit/downloads/fr/github-git-cheat-sheet.pdf" style="diplay: inline;"> cheatsheet</a> qui peut t’aider dans ton utilisation de git. 
 
 
 C’est article est une mission pour la formation The Hacking Project. 
 
 
 <h3>Mes sources :</h3>
-
+<a href="https://delicious-insights.com/fr/articles/git-workflows-conventions/" style="diplay: inline;">article</a>
 <br>
-Grafikart a fait une [vidéo](https://www.grafikart.fr/tutoriels/nommage-commit-1009) sur comment nommer ses commits.
-Le projet d'exemple [Leon](https://github.com/leon-ai/leon). 
-Cet [article](https://buzut.net/git-bien-nommer-ses-commits/) sur le nommage des commits.
-Cet [article](https://delicious-insights.com/fr/articles/git-workflows-conventions/) sur le workflow git.
+Grafikart a fait une <a href="https://www.grafikart.fr/tutoriels/nommage-commit-1009" style="diplay: inline;">vidéo</a> sur comment nommer ses commits.
+Le projet d'exemple utilisé <a href="https://github.com/leon-ai/leon" style="diplay: inline;">Leon</a>. 
+Cet <a href="https://buzut.net/git-bien-nommer-ses-commits/" style="diplay: inline;">article</a> sur le nommage des commits.
+Cet <a href="https://delicious-insights.com/fr/articles/git-workflows-conventions/" style="diplay: inline;">article</a> sur le workflow git.
 
 <h3> Contexte : </h3>
-<br>
+
 Mission réalisée durant la formation <a href="https://www.thehackingproject.org/" style="diplay: inline;">The Hacking Project</a>
 
 ## 👤  Auteur(s) : 
