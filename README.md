@@ -8,7 +8,7 @@
 <hr>
 <h2>Git… C’est Super !</h2>
 <hr>
-Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour nos projets, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer
+Je suppose que depuis que tu utilises git, tu as réalisé qu’il est un outil indispensable pour nos projets, une fois que l’on a pris l’habitude de l’utiliser sur quelques projets, on ne peut plus s’en passer. <br>
 Git est utilisé pour : 
 <br>
 
