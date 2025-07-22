@@ -140,10 +140,6 @@ C’est article est une mission pour la formation The Hacking Project.
 
 -- Cet <a href="https://delicious-insights.com/fr/articles/git-workflows-conventions/" style="diplay: inline;">article</a> sur le workflow git.
 
-<h3> Contexte : </h3>
-
--- Mission réalisée durant la formation <a href="https://www.thehackingproject.org/" style="diplay: inline;">The Hacking Project</a>
-
 <h3> 👤  Auteur(s) : </h3>
 
 -- Chris Blassiaux → 
