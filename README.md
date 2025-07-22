@@ -127,9 +127,6 @@ Pour aller plus loin dans ton utilisation de git, je te propose d’aller te ren
 J’ai trouvé cette <a href="https://github.github.com/training-kit/downloads/fr/github-git-cheat-sheet.pdf" style="diplay: inline;"> cheatsheet</a> qui peut t’aider dans ton utilisation de git. 
 
 
-C’est article est une mission pour la formation The Hacking Project. 
-
-
 <h3>Mes sources :</h3>
 <br>
 -- Grafikart a fait une <a href="https://www.grafikart.fr/tutoriels/nommage-commit-1009" style="diplay: inline;">vidéo</a> sur comment nommer ses commits.
