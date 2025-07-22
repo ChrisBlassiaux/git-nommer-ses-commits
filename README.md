@@ -3,7 +3,7 @@
 <i>
  Tu utilises Git et tu te poses des questions sur comment nommer tes commits, cet article est fait pour toi. 
 
- Cet article est une adaptation écrite de mes recherches personnelles concernant ce sujet. Au moment de cet article, je suis en formation de développement web chez The Hacking Project. 
+ Cet article est une adaptation écrite de mes recherches personnelles concernant ce sujet. 
 </i>
 <hr>
 <h2>Git… C’est Super !</h2>
